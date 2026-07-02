@@ -692,6 +692,7 @@ sensor - differential pressure sensor,DPS,1,SENSOR,IfcSensorPRESSURESENSOR,IfcSe
 sensor - glycol protector sensor,GLYPR,1,SENSOR,IfcSensor,IfcSensor,0
 sensor - humidity sensor,HMS,1,SENSOR,IfcSensorHUMIDITYSENSOR,IfcSensorHUMIDITYSENSOR,0
 sensor - humidity sensor - outside,OHMS,1,SENSOR,IfcSensorHUMIDITYSENSOR,IfcSensorHUMIDITYSENSOR,0
+sensor - indoor air quaulity,IAQ,1,SENSOR,IfcSensor,IfcSensor,0 
 sensor - inertial measurement unit sensor,IMUS,1,SENSOR,IfcSensor,IfcSensor,0
 sensor - leak detection sensor,LDS,1,SENSOR,IfcSensor,IfcSensor,0
 sensor - level sensor,LVLS,1,SENSOR,IfcSensor,IfcSensor,0
